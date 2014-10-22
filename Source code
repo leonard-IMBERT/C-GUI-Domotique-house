@@ -780,7 +780,7 @@ class buttonBox{
  
 }
 
-//================Annexe==========================
+//================Annexe===========================
 
 /*if((tablDataAfter[0]+1 == tablDataBefo[0]) || (tablDataAfter[0] == tablDataBefo[0]+1)){byte[] tempData = {0x18}; bt.broadcast(tempData);}
     if((tablDataAfter[1]+1 == tablDataBefo[1]) || (tablDataAfter[1] == tablDataBefo[1]+1)){byte[] tempData = {0x19}; bt.broadcast(tempData);}
